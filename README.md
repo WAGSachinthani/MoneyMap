@@ -8,8 +8,6 @@ A simple Java program to track your daily expenses, manage your bank balance, an
 - **Add Expense** 💰: Add daily expenses with details like category, description, and amount.
 - **Manage Balance** 💳: Set and track your current bank balance.
 - **CRUD Operations** 🔄: Add, Edit, Delete, and View your expenses.
-- **Summaries** 📅: Track expenses weekly, monthly, or yearly.
-- **Data Storage** 💾: Save and load data using text files.
 
 ---
 
